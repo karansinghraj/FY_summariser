@@ -1,0 +1,95 @@
+{
+  "company_name": "Pondy Oxides & Chemicals Ltd.",
+  "ticker": "POCL",
+  "sector": "Chemicals & Non-Ferrous Metals",
+  "recommendation": "NOT RATED",
+  "target_price": "—",
+  "cmp": "₹1,180",
+  "upside_downside": "—",
+  "market_cap": "₹14,500 Mn",
+  "fifty_two_week_high_low": "₹1,420 / ₹520",
+  "shares_outstanding": "12.3 Mn",
+  "bse_code": "532626",
+  "nse_code": "PONDYOXIDE",
+  "bloomberg_code": "POCL IN",
+  "report_date": "November 2025",
+  "analyst_name": "Equity Research Division",
+  "is_banking": false,
+  "executive_summary": "Pondy Oxides & Chemicals Ltd (POCL) reported strong operational performance in Q2FY26, driven by higher lead sales volumes and improved value-added product realizations. Total revenue stood at ₹6,345 mn, up 38.2% YoY, supported by steady demand from battery OEMs and industrial recycling expansion.",
+  "key_highlights": [
+    "Q2FY26 revenue increased 38.2% YoY to ₹6,345 mn compared to ₹4,591 mn in Q2FY25.",
+    "EBITDA for the quarter rose to ₹551 mn with an EBITDA margin of 8.68%, benefiting from optimized scrap sourcing.",
+    "Profit After Tax (PAT) expanded to ₹356 mn, registering a solid growth of 45.1% YoY.",
+    "The ongoing capacity expansion in Tamil Nadu for lead battery recycling and plastic additives remains on track for completion by Q4FY26.",
+    "Export contribution increased to 32% of total sales, driven by robust demand across South East Asia and Middle East markets."
+  ],
+  "outlook": "POCL remains well-positioned to capitalize on India's growing battery energy storage market and strict circular economy mandate for battery recycling (BWMR). Management maintains a positive growth trajectory with targeted revenue CAGR of 20-25% over FY25-FY28.",
+  "estimate_change_notes": "Estimates maintained following strong Q2 operational performance.",
+  "quarterly_financials": [
+    {
+      "quarter": "Q2FY26",
+      "revenue": "6,345",
+      "ebitda": "551",
+      "ebitda_margin": "8.68%",
+      "pat": "356",
+      "pat_margin": "5.61%",
+      "eps": "28.9"
+    },
+    {
+      "quarter": "Q1FY26",
+      "revenue": "5,820",
+      "ebitda": "495",
+      "ebitda_margin": "8.51%",
+      "pat": "310",
+      "pat_margin": "5.33%",
+      "eps": "25.2"
+    },
+    {
+      "quarter": "Q4FY25",
+      "revenue": "5,410",
+      "ebitda": "440",
+      "ebitda_margin": "8.13%",
+      "pat": "275",
+      "pat_margin": "5.08%",
+      "eps": "22.3"
+    },
+    {
+      "quarter": "Q3FY25",
+      "revenue": "4,950",
+      "ebitda": "398",
+      "ebitda_margin": "8.04%",
+      "pat": "242",
+      "pat_margin": "4.89%",
+      "eps": "19.6"
+    }
+  ],
+  "income_statement": [
+    {"metric": "Total Revenue (Rs Mn)", "year_1": "14,800", "year_2": "18,900", "year_3": "23,500", "year_4": "28,200"},
+    {"metric": "EBITDA (Rs Mn)", "year_1": "1,120", "year_2": "1,520", "year_3": "1,980", "year_4": "2,450"},
+    {"metric": "PAT (Rs Mn)", "year_1": "680", "year_2": "950", "year_3": "1,280", "year_4": "1,620"},
+    {"metric": "EPS (Rs)", "year_1": "55.3", "year_2": "77.2", "year_3": "104.0", "year_4": "131.7"}
+  ],
+  "balance_sheet": [
+    {"metric": "Share Capital", "year_1": "123", "year_2": "123", "year_3": "123", "year_4": "123"},
+    {"metric": "Reserves & Surplus", "year_1": "3,450", "year_2": "4,400", "year_3": "5,680", "year_4": "7,300"},
+    {"metric": "Total Debt", "year_1": "1,850", "year_2": "1,650", "year_3": "1,400", "year_4": "1,100"},
+    {"metric": "Net Fixed Assets", "year_1": "2,100", "year_2": "2,600", "year_3": "3,200", "year_4": "3,800"}
+  ],
+  "cash_flow": [
+    {"metric": "Operating Cash Flow", "year_1": "920", "year_2": "1,250", "year_3": "1,610", "year_4": "1,950"},
+    {"metric": "Investing Cash Flow", "year_1": "-450", "year_2": "-620", "year_3": "-700", "year_4": "-750"},
+    {"metric": "Financing Cash Flow", "year_1": "-320", "year_2": "-410", "year_3": "-500", "year_4": "-600"},
+    {"metric": "Net Cash Flow", "year_1": "150", "year_2": "220", "year_3": "410", "year_4": "600"}
+  ],
+  "key_ratios": [
+    {"metric": "P/E (x)", "year_1": "21.3", "year_2": "15.3", "year_3": "11.3", "year_4": "9.0"},
+    {"metric": "P/B (x)", "year_1": "4.2", "year_2": "3.3", "year_3": "2.5", "year_4": "2.0"},
+    {"metric": "ROE (%)", "year_1": "19.7%", "year_2": "21.6%", "year_3": "22.5%", "year_4": "22.2%"},
+    {"metric": "ROCE (%)", "year_1": "22.1%", "year_2": "24.5%", "year_3": "26.0%", "year_4": "26.8%"},
+    {"metric": "Debt / Equity (x)", "year_1": "0.52", "year_2": "0.37", "year_3": "0.25", "year_4": "0.15"}
+  ],
+  "recommendation_history": [
+    {"date": "15-Nov-2025", "rating": "NOT RATED", "target_price": "—", "cmp": "₹1,180"},
+    {"date": "12-Aug-2025", "rating": "NOT RATED", "target_price": "—", "cmp": "₹940"}
+  ]
+}

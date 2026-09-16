@@ -1,0 +1,101 @@
+{
+  "company_name": "ICICI Bank Ltd.",
+  "ticker": "ICICIBANK",
+  "sector": "Banking & Financial Services",
+  "recommendation": "BUY",
+  "target_price": "₹1,450",
+  "cmp": "₹1,245",
+  "upside_downside": "+16.5%",
+  "market_cap": "₹8,75,000 Cr",
+  "fifty_two_week_high_low": "₹1,320 / ₹980",
+  "shares_outstanding": "7,030 Mn",
+  "bse_code": "532174",
+  "nse_code": "ICICIBANK",
+  "bloomberg_code": "ICICI IN",
+  "report_date": "October 2025",
+  "analyst_name": "Banking Research Desk",
+  "is_banking": true,
+  "executive_summary": "ICICI Bank delivered another stellar performance in Q2-2026, registering a Profit After Tax (PAT) of ₹123.59 bn, supported by robust core operating profit of ₹170.78 bn. Asset quality remained healthy with Gross NPA dropping to 1.97% and Net NPA at 0.42%. Retail and business banking portfolios drove steady credit expansion.",
+  "key_highlights": [
+    "PAT reached ₹123.59 bn, growing 14.5% YoY, driven by strong non-interest income and stable credit costs.",
+    "Core Operating Profit expanded to ₹170.78 bn, up 12.1% YoY from ₹152.30 bn in Q2-2025.",
+    "Net Interest Margin (NIM) stood resilient at 4.27%, demonstrating superior liability franchise management.",
+    "Total deposit growth registered at 15.6% YoY to ₹14,980 bn, with CASA ratio maintaining a industry-leading 40.8%.",
+    "Gross NPA ratio improved further to 1.97% (down 43 bps YoY), while Provision Coverage Ratio (PCR) stood strong at 80.4%."
+  ],
+  "outlook": "ICICI Bank continues to set benchmarks in digital transformation, risk-calibrated growth, and capital allocation. With a CET-1 ratio of 16.2% and best-in-class return metrics (RoA > 2.2%), the bank remains our top pick in the Indian private banking space.",
+  "estimate_change_notes": "Maintained BUY with revised target price of ₹1,450 based on 2.6x FY27E P/ABV.",
+  "quarterly_financials": [
+    {
+      "quarter": "Q2-2026",
+      "revenue": "200.48",
+      "ebitda": "170.78",
+      "ebitda_margin": "4.27% (NIM)",
+      "pat": "123.59",
+      "pat_margin": "61.6%",
+      "eps": "17.58",
+      "extra_metric": "GNPA: 1.97%"
+    },
+    {
+      "quarter": "Q1-2026",
+      "revenue": "195.20",
+      "ebitda": "163.50",
+      "ebitda_margin": "4.36% (NIM)",
+      "pat": "116.90",
+      "pat_margin": "59.9%",
+      "eps": "16.63",
+      "extra_metric": "GNPA: 2.15%"
+    },
+    {
+      "quarter": "Q4-2025",
+      "revenue": "190.90",
+      "ebitda": "159.20",
+      "ebitda_margin": "4.40% (NIM)",
+      "pat": "114.50",
+      "pat_margin": "60.0%",
+      "eps": "16.29",
+      "extra_metric": "GNPA: 2.16%"
+    },
+    {
+      "quarter": "Q3-2025",
+      "revenue": "186.70",
+      "ebitda": "154.60",
+      "ebitda_margin": "4.43% (NIM)",
+      "pat": "108.60",
+      "pat_margin": "58.2%",
+      "eps": "15.45",
+      "extra_metric": "GNPA: 2.30%"
+    }
+  ],
+  "income_statement": [
+    {"metric": "Net Interest Income (Rs Bn)", "year_1": "626.1", "year_2": "743.1", "year_3": "872.0", "year_4": "1,015.0"},
+    {"metric": "Core Operating Profit (Rs Bn)", "year_1": "490.8", "year_2": "581.2", "year_3": "685.0", "year_4": "802.0"},
+    {"metric": "PAT (Rs Bn)", "year_1": "319.0", "year_2": "408.9", "year_3": "485.0", "year_4": "570.0"},
+    {"metric": "Diluted EPS (Rs)", "year_1": "45.7", "year_2": "58.2", "year_3": "69.0", "year_4": "81.1"}
+  ],
+  "balance_sheet": [
+    {"metric": "Total Advances (Rs Bn)", "year_1": "10,196", "year_2": "11,844", "year_3": "13,900", "year_4": "16,300"},
+    {"metric": "Total Deposits (Rs Bn)", "year_1": "11,808", "year_2": "14,128", "year_3": "16,500", "year_4": "19,200"},
+    {"metric": "Net Worth (Rs Bn)", "year_1": "2,007", "year_2": "2,385", "year_3": "2,820", "year_4": "3,350"},
+    {"metric": "Total Assets (Rs Bn)", "year_1": "15,842", "year_2": "18,720", "year_3": "21,800", "year_4": "25,300"}
+  ],
+  "cash_flow": [
+    {"metric": "Operating Cash Flow", "year_1": "210.0", "year_2": "285.0", "year_3": "340.0", "year_4": "410.0"},
+    {"metric": "Investing Cash Flow", "year_1": "-85.0", "year_2": "-110.0", "year_3": "-130.0", "year_4": "-150.0"},
+    {"metric": "Financing Cash Flow", "year_1": "-42.0", "year_2": "-55.0", "year_3": "-70.0", "year_4": "-90.0"},
+    {"metric": "Net Cash Change", "year_1": "83.0", "year_2": "120.0", "year_3": "140.0", "year_4": "170.0"}
+  ],
+  "key_ratios": [
+    {"metric": "P/E (x)", "year_1": "27.2", "year_2": "21.4", "year_3": "18.0", "year_4": "15.4"},
+    {"metric": "P/ABV (x)", "year_1": "4.1", "year_2": "3.4", "year_3": "2.9", "year_4": "2.4"},
+    {"metric": "RoA (%)", "year_1": "2.16%", "year_2": "2.36%", "year_3": "2.38%", "year_4": "2.40%"},
+    {"metric": "RoE (%)", "year_1": "17.4%", "year_2": "18.6%", "year_3": "18.7%", "year_4": "18.5%"},
+    {"metric": "Gross NPA (%)", "year_1": "2.81%", "year_2": "2.16%", "year_3": "1.85%", "year_4": "1.70%"},
+    {"metric": "Net NPA (%)", "year_1": "0.48%", "year_2": "0.42%", "year_3": "0.38%", "year_4": "0.35%"}
+  ],
+  "recommendation_history": [
+    {"date": "20-Oct-2025", "rating": "BUY", "target_price": "₹1,450", "cmp": "₹1,245"},
+    {"date": "22-Jul-2025", "rating": "BUY", "target_price": "₹1,380", "cmp": "₹1,180"},
+    {"date": "25-Apr-2025", "rating": "ACCUMULATE", "target_price": "₹1,260", "cmp": "₹1,110"}
+  ]
+}
